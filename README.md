@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Web Development & Web3<br>🤝 Looking to collaborate on: Internships & Job Opportunities<br>🌱 Currently learning: Advanced Backend Development<br>📫 Reach me at: mohitjoshiu@gmail.com
+🔭 Currently working on: Web Development & Web 3<br>🤝 Looking to collaborate on: Internships & Job Opportunities<br>🌱 Currently learning: Advanced Backend Development<br>📫 Reach me at: mohitjoshiu@gmail.com
 
 
 ## 🌐 Socials:
